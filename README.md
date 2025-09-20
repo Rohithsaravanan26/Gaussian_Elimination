@@ -10,13 +10,15 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 ### Step 1: 
-
+Import the required libraries (numpy, sys) and read the order of the matrix.
 ### Step 2: 
-
+Input the augmented matrix (coefficients and constants).
 ### Step 3: 
-
+Perform forward elimination to convert the matrix into an upper triangular form.
 ### Step 4: 
-
+Apply back substitution to solve for the unknown variables.
+### Step 5:
+Display the values of the solution vector.
 ## Program:
 ### Developed by: Rohith S
 ### RegisterNumber: 25008317
